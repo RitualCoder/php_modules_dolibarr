@@ -40,7 +40,7 @@ Pour effectuer un champ TITRE vous devrez mettre dans 'ligne libre de type': soi
 Mettez votre description en format TITRE à l'aide de l'éditeur et mettez la quantité à 0.
 
 
-![Cover](img/Capture 2.PNG)
+![Cover](img/Capture2.PNG)
 
 
 Générez votre pdf et vous aurez un Titre.
