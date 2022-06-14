@@ -1871,7 +1871,7 @@ class pdf_propale extends ModelePDFPropales
 		$pdf->SetFillColor(255, 255, 255);
 		$pdf->SetXY($posx, $tab_top + ($height*3) - 2);
 		$pdf->SetFont('', '', $default_font_size - 4);
-		$pdf->MultiCell($largcol, $tab_hl, "La validation du devis vaut acceptation des Conditions Générales de Vente consultables sur le site internet 2GCOM.", 0, 'C', 1);
+		$pdf->MultiCell($largcol, $tab_hl, "La validation du devis vaut acceptation des Conditions Générales de Vente consultables sur notre site internet.", 0, 'C', 1);
 
 
 		// Total HT
