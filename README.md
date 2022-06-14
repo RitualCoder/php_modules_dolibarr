@@ -13,7 +13,7 @@ git clone mon répertoire
 Afin que votre modèle sois visible dans votre Dolibarr vous devrez modifier votre base de données (exemple : à l'aide d'une plateforme de gestion de base de donnée comme pgadmin4 ou bien directement en console pour les plus expérimentés).
 Vous devrez modifier le fichier llx_document_model et ajouter une nouvelle ligne pour votre nouveau modèle qui se nommera 'propale'.
 
-![Cover](img/Capture.png)
+![Cover](img/Capture.PNG)
 
 ## Facture :
 
