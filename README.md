@@ -13,6 +13,7 @@ git clone mon répertoire
 Afin que votre modèle sois visible dans votre Dolibarr vous devrez modifier votre base de données (exemple : à l'aide d'une plateforme de gestion de base de donnée comme pgadmin4 ou bien directement en console pour les plus expérimentés).
 Vous devrez modifier le fichier llx_document_model et ajouter une nouvelle ligne pour votre nouveau modèle qui se nommera 'propale'.
 
+
 ![Cover](img/Capture.PNG)
 
 ## Facture :
@@ -37,7 +38,15 @@ Vous devrez modifier le fichier llx_document_model et ajouter une nouvelle ligne
 Tout d'abord vous devrez activer le module Éditeur WYSIWYG dans votre Dolibarr (Accueil -> Configuration -> Modules/Applications).
 Pour effectuer un champ TITRE vous devrez mettre dans 'ligne libre de type': sois produit sois service.
 Mettez votre description en format TITRE à l'aide de l'éditeur et mettez la quantité à 0.
+
+
+![Cover](img/Capture 2.PNG)
+
+
 Générez votre pdf et vous aurez un Titre.
+
+
+![Cover](img/Capture3.PNG)
 
 Vous pourrez mettre autant de produit/service que vous le souhaitez sous le Titre, le sous total du Titre se mettra à jour systématiquement.
 
