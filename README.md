@@ -3,7 +3,7 @@ Modules php afin de générer des devis, factures, expéditions... en PDF par le
 Ces modèles permettent l'implémentation de titres qui font un sous total de l'ensemble des produits ou services de leur sous partie.
 Le cadre pour la signature est agrandie et possède de nombreuses autres améliorations esthétiques.
 
-git clone mon répertoire
+git clone https://github.com/Enzo1408/php_modules_dolibarr.git
 
 ## Propale :
 
@@ -14,7 +14,7 @@ Afin que votre modèle sois visible dans votre Dolibarr vous devrez modifier vot
 Vous devrez modifier le fichier llx_document_model et ajouter une nouvelle ligne pour votre nouveau modèle qui se nommera 'propale'.
 
 
-![Cover](img/Capture.PNG)
+![Screenshot](img/Capture.PNG)
 
 ## Facture :
 
@@ -40,15 +40,22 @@ Pour effectuer un champ TITRE vous devrez mettre dans 'ligne libre de type': soi
 Mettez votre description en format TITRE à l'aide de l'éditeur et mettez la quantité à 0.
 
 
-![Cover](img/Capture2.PNG)
+![Screenshot](img/Capture2.PNG)
 
 
 Générez votre pdf et vous aurez un Titre.
 
 
-![Cover](img/Capture3.PNG)
+![Screenshot](img/Capture3.PNG)
 
 Vous pourrez mettre autant de produit/service que vous le souhaitez sous le Titre, le sous total du Titre se mettra à jour systématiquement.
 
+
+## Modification du pied de page
+
+Si les informations du pied de page ne vous conviennent pas et que vous voulez mettre des informations qui vous sont propre, il vous suffit d'ouvrir le fichier php et d'aller dans la fonction 'signature_area' (ligne 1869). 
+Vous verrez dans le code deux champs de texte que vous pourrez modifier comme bon vous semble.
+
+![Screenshot](img/Capture4.PNG)
 
 Pour toute information complémentaire n'hésitez pas à me contacter par mail : enzo.cornaggia@icloud.com
