@@ -56,6 +56,6 @@ Vous pourrez mettre autant de produit/service que vous le souhaitez sous le Titr
 Si les informations du pied de page ne vous conviennent pas et que vous voulez mettre des informations qui vous sont propre, il vous suffit d'ouvrir le fichier php et d'aller dans la fonction 'signature_area' (ligne 1869). 
 Vous verrez dans le code deux champs de texte que vous pourrez modifier comme bon vous semble.
 
-![Screenshot](img/tempsnip.PNG)
+![Screenshot](img/Capture4.PNG)
 
 Pour toute information complémentaire n'hésitez pas à me contacter par mail : enzo.cornaggia@icloud.com
