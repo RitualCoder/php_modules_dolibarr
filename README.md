@@ -13,7 +13,7 @@ Vous devrez modifier le fichier llx_document_model et ajouter une nouvelle ligne
 
 ## Facture :
 
-- Copier le fichier propale/pdf_invoice.modules.php 
+- Copier le fichier invoice/pdf_invoice.modules.php 
 - Coller le fichier dans le répertoire de votre Dolibarr : htdocs/core/modules/propale/doc/
 
 Afin que votre modèle sois visible dans votre Dolibarr vous devrez modifier votre base de données (exemple : à l'aide d'une plateforme de gestion de base de donnée comme pgadmin4 ou bien directement en console pour les plus expérimentés).
@@ -21,7 +21,7 @@ Vous devrez modifier le fichier llx_document_model et ajouter une nouvelle ligne
 
 ## Expédition :
 
-- Copier le fichier propale/pdf_shipment.modules.php 
+- Copier le fichier shipment/pdf_shipment.modules.php 
 - Coller le fichier dans le répertoire de votre Dolibarr : htdocs/core/modules/propale/doc/
 
 Afin que votre modèle sois visible dans votre Dolibarr vous devrez modifier votre base de données (exemple : à l'aide d'une plateforme de gestion de base de donnée comme pgadmin4 ou bien directement en console pour les plus expérimentés).
