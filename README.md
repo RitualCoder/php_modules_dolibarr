@@ -36,7 +36,7 @@ Vous devrez modifier le fichier llx_document_model et ajouter une nouvelle ligne
 ## Utilisation
 
 Tout d'abord vous devrez activer le module Éditeur WYSIWYG dans votre Dolibarr (Accueil -> Configuration -> Modules/Applications).
-Pour effectuer un champ TITRE vous devrez mettre dans 'ligne libre de type': sois produit sois service.
+Pour effectuer un champ TITRE vous devrez mettre dans 'ligne libre de type': soit produit soit service.
 Mettez votre description en format TITRE à l'aide de l'éditeur et mettez la quantité à 0.
 
 
