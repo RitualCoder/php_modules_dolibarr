@@ -3,8 +3,6 @@ Modules php afin de générer des devis, factures, expéditions... en PDF par le
 Ces modèles permettent l'implémentation de titres qui font un sous total de l'ensemble des produits ou services de leur sous partie.
 Le cadre pour la signature est agrandie et possède de nombreuses autres améliorations esthétiques.
 
-git clone https://github.com/Enzo1408/php_modules_dolibarr.git
-
 ## Propale :
 
 - Copier le fichier propale/pdf_propale.modules.php 
