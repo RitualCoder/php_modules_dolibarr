@@ -56,4 +56,6 @@ Vous verrez dans le code deux champs de texte que vous pourrez modifier comme bo
 
 ![Screenshot](img/Capture4.png)
 
+Si vous voulez supprimer la cellule, il suffit simplement d'effacer la ou les lignes entières (ligne 1888, 1907).
+
 Pour toute information complémentaire n'hésitez pas à me contacter par mail : enzo.cornaggia@icloud.com
